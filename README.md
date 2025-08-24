@@ -17,5 +17,7 @@ Tech: Python, Pandas, NumPy, Tkinter, Plotly
 Usage:
 
 git clone https://github.com/yourusername/portfolio-optimization-tool.git
+
 pip install -r requirements.txt
+
 python project.py
