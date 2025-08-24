@@ -21,3 +21,10 @@ git clone https://github.com/annabelous75/investment_optimization.git
 pip install -r requirements.txt
 
 python project.py
+
+![Main Window](screenshots/optimization.png)
+![Efficient_front Window](screenshots/efficient_front.png)
+![Strategy Window](screenshots/strategy.png)
+
+
+
