@@ -1,20 +1,20 @@
 Portfolio Optimization Tool
 Optimize stocks & crypto portfolios with Python – maximize returns, control risk.
 
-Key Features:
+# Key Features:
 ✅Historical Data: stocks (AAPL, MSFT, TSLA) & crypto (BTC, ETH, ADA) via yfinance
 ✅Optimization: markowitz & Genetic Algorithms for best return-to-risk ratio
 ✅Metrics: portfolio return, risk, Sharpe ratio
 ✅Visualization: efficient frontier plots
 ✅Interactive GUI: tkinter lets users pick assets, strategies (Conservative, Moderate, Aggressive), and see results
 
-Impact:
+# Impact:
 Enabled data-driven investment decisions
 Visualized risk-return trade-offs for actionable insights
 Improved portfolio efficiency and stability
 Tech: Python, Pandas, NumPy, Tkinter, Plotly
 
-Usage:
+# Usage:
 
 git clone https://github.com/annabelous75/investment_optimization.git
 
